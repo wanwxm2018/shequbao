@@ -1,0 +1,14 @@
+server:
+  port: 10086
+spring:
+  application:
+    name: sqbregistry
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+    register-with-eureka: false   #关闭服务中心自己注册自己
+    fetch-registry: false
+  instance:
+      prefer-ip-address: true
+      ip-address: 127.0.0.1

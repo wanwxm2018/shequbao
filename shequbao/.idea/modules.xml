@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shequbao.iml" filepath="$PROJECT_DIR$/shequbao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqb-common/sqb-common.iml" filepath="$PROJECT_DIR$/sqb-common/sqb-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqb-item/sqb-item.iml" filepath="$PROJECT_DIR$/sqb-item/sqb-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqb-item/sqb-item-interface/sqb-item-interface.iml" filepath="$PROJECT_DIR$/sqb-item/sqb-item-interface/sqb-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqb-item/sqb-item-service/sqb-item-service.iml" filepath="$PROJECT_DIR$/sqb-item/sqb-item-service/sqb-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqbgateway/sqbgateway.iml" filepath="$PROJECT_DIR$/sqbgateway/sqbgateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqbregistry/sqbregistry.iml" filepath="$PROJECT_DIR$/sqbregistry/sqbregistry.iml" />
+    </modules>
+  </component>
+</project>

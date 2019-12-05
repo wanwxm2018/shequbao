@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sqb-common" />
+        <module name="sqb-item-interface" />
+        <module name="sqb-item-service" />
+        <module name="sqbgateway" />
+        <module name="sqbregistry" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shequbao" target="1.8" />
+      <module name="sqb-common" target="1.8" />
+      <module name="sqb-item" target="1.8" />
+      <module name="sqb-item-interface" target="1.8" />
+      <module name="sqb-item-service" target="1.8" />
+      <module name="sqbgateway" target="1.8" />
+      <module name="sqbitem" target="1.8" />
+      <module name="sqbregistry" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
